@@ -2,7 +2,8 @@
 
 <p align="center">
 
-<video src="https://a.top4top.io/m_33249towx0.mp4" type="video/mp4" alt="Hi Ka" width="600"></video>
+<video> 
+<source src="https://a.top4top.io/m_33249towx0.mp4" type="video/mp4" alt="Hi Ka" width="600"></video>
 
 
 </p>
