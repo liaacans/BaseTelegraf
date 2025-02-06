@@ -2,8 +2,7 @@
 
 <p align="center">
 
-<video> 
-<source src="https://a.top4top.io/m_33249towx0.mp4" type="video/mp4" alt="Hi Ka" width="600"></video>
+<img src="https://a.top4top.io/m_33249towx0.mp4" width="400" height="600" alt="Ngapain?">
 
 
 </p>
