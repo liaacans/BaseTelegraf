@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://a.top4top.io/m_33249towx0.mp4" width="400" height="600" alt="Ngapain?">
+<video src="https://a.top4top.io/m_33249towx0.mp4" width="400" height="600" alt="Ngapain?"></video>
 
 
 </p>
