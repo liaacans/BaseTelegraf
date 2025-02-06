@@ -98,8 +98,7 @@ $ node main.js atau npm start
 
 * [`WhatsApp Admin`](https://wa.me/62856541270715)
 
-* [`Telegram Admin`]
-(https://t.me/ichacmtik)
+* [`Telegram Admin`](https://t.me/ichacmtik)
 
 ### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗔𝗹𝗹 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 𝗕𝗼𝘁 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
@@ -110,7 +109,7 @@ $ node main.js atau npm start
 
 * `ORTU KU YA`
 
-* `Node-Telegram-Baileys-Bot`
+* `Node-Telegram-Bot-Api`
 
 * `Aulia Rahman`
 
