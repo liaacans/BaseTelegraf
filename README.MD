@@ -2,7 +2,8 @@
 
 <p align="center">
 
-<video src="https://a.top4top.io/m_33249towx0.mp4" width="400" height="600" alt="Ngapain?"></video>
+<video width="400" height="600" controls>
+<source src="https://a.top4top.io/m_33249towx0.mp4" width="400" height="600" alt="Ngapain?"></video>
 
 
 </p>
