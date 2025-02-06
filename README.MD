@@ -4,7 +4,7 @@
 
 <video src="https://a.top4top.io/m_33249towx0.mp4" alt="Hi Ka" width="600">
 
-<a href="https://avatars.githubusercontent.com/u/81602606?v=4"><img title="Aulia Rahman" src="https://img.shields.io/badge/Aulia Rahman-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<img title="Aulia Rahman" src="https://img.shields.io/badge/Aulia Rahman-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
